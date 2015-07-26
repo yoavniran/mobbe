@@ -1,0 +1,27 @@
+{
+  "name": "mobbe",
+  "version": "0.0.1",
+  "description": "my own backbone extension",
+  "main": "src/mobbe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoavniran/mobbe.git"
+  },
+  "keywords": [
+    "backbone",
+    "mvc"
+  ],
+  "author": "yoav niran",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yoavniran/mobbe/issues"
+  },
+  "homepage": "https://github.com/yoavniran/mobbe#readme",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.2"
+  }
+}
